@@ -4,7 +4,7 @@
  *
  * Die Buckets rastern ab dem frühesten Artikel-Datum in 7-Tage-Schritten. Ein
  * Artikel gehört in genau eine Woche; pro Woche werden Mentions gezählt und das
- * mittlere Sentiment gebildet — die Grundlage für den Anomalie-Detektor
+ * mittlere Sentiment gebildet, die Grundlage für den Anomalie-Detektor
  * (Mention-Spike / Sentiment-Drop).
  */
 
